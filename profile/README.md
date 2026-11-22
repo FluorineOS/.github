@@ -7,6 +7,8 @@ Wayland compositor. The interface uses a pure AMOLED black canvas (`#000000`) wi
 reactive lime accent (`#B4F03A`) and hairline borders (`#1C2229`). Compositor configuration
 is native Hyprland 0.55 Lua, and installation is handled offline by Calamares.
 
+[Website][website] | [Latest Release][releases] | [Main Repository][main] | [APT Repository][apt] | [Issues][issues]
+
 ## Download Latest ISO
 
 `fluorine` is the main repository and the only source of official FluorineOS images.
@@ -33,11 +35,13 @@ sha256sum -c FluorineOS-0.0.1-amd64.iso.sha256
 | [`fluorine-artwork`][artwork] | Wallpapers, Plymouth splash, fastfetch branding, Calamares theme | APT package |
 | [`fluorine-keyring`][keyring] | Archive signing keyring and APT source definition | APT package |
 | [`apt-repo`][apt] | Signed APT package repository | APT source |
+| [`fluorine-website`][website] | Official web portal and documentation interface | Web application |
 
 ## Documentation
 
 | Resource | Location |
 | --- | --- |
+| Official website | [FluorineOS Website][website] |
 | Release notes | [FluorineOS/fluorine Releases][releases] |
 | Issue tracker | [FluorineOS/fluorine Issues][issues] |
 | APT repository | [FluorineOS/apt-repo][apt] |
@@ -48,4 +52,5 @@ sha256sum -c FluorineOS-0.0.1-amd64.iso.sha256
 [desktop]: https://github.com/FluorineOS/fluorine-desktop
 [artwork]: https://github.com/FluorineOS/fluorine-artwork
 [keyring]: https://github.com/FluorineOS/fluorine-keyring
-[apt]: https://github.com/FluorineOS/apt-repo
+[apt]: https://fluorineos.github.io/apt-repo
+[website]: https://github.com/FluorineOS/fluorine-website
