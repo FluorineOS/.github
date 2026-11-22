@@ -35,13 +35,14 @@ sha256sum -c FluorineOS-0.0.1-amd64.iso.sha256
 | [`fluorine-artwork`][artwork] | Wallpapers, Plymouth splash, fastfetch branding, Calamares theme | APT package |
 | [`fluorine-keyring`][keyring] | Archive signing keyring and APT source definition | APT package |
 | [`apt-repo`][apt] | Signed APT package repository | APT source |
-| [`fluorine-website`][website] | Official web portal and documentation interface | Web application |
+| [`fluorine-website`][websiterepo] | Official web portal and documentation interface | Web application |
 
 ## Documentation
 
 | Resource | Location |
 | --- | --- |
-| Official website | [FluorineOS Website][website] |
+| Official website | [https://fluorineos.pages.dev][website] |
+| Website source | [FluorineOS/fluorine-website][websiterepo] |
 | Release notes | [FluorineOS/fluorine Releases][releases] |
 | Issue tracker | [FluorineOS/fluorine Issues][issues] |
 | APT repository | [FluorineOS/apt-repo][apt] |
@@ -53,4 +54,5 @@ sha256sum -c FluorineOS-0.0.1-amd64.iso.sha256
 [artwork]: https://github.com/FluorineOS/fluorine-artwork
 [keyring]: https://github.com/FluorineOS/fluorine-keyring
 [apt]: https://fluorineos.github.io/apt-repo
-[website]: https://github.com/FluorineOS/fluorine-website
+[website]: https://fluorineos.pages.dev
+[websiterepo]: https://github.com/FluorineOS/fluorine-website
