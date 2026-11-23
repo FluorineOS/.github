@@ -26,6 +26,8 @@ Download the image and its checksum, then verify before writing it to removable 
 sha256sum -c FluorineOS-0.0.1-amd64.iso.sha256
 ```
 
+![FluorineOS wordmark](https://raw.githubusercontent.com/FluorineOS/.github/main/profile/fluorine-banner.png)
+
 ## Repositories
 
 | Repository | Purpose | Delivery |
