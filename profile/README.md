@@ -21,6 +21,8 @@ is native Hyprland 0.55 Lua, and installation is handled offline by Calamares.
 | Main repository | [FluorineOS/fluorine][main] |
 | Image name | `FluorineOS-0.0.1-amd64.iso` |
 | Checksum | `FluorineOS-0.0.1-amd64.iso.sha256` |
+| Image size | `1388937216` bytes (1.29 GiB) |
+| SHA-256 | `352724cf630ce6ea900256131cf45dfdbebcb888cf96ab313ec9ec1d7d0fc8c0` |
 
 Download the image and its checksum, then verify before writing it to removable media:
 
