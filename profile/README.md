@@ -19,15 +19,15 @@ is native Hyprland 0.55 Lua, and installation is handled offline by Calamares.
 | --- | --- |
 | Latest release | [FluorineOS/fluorine Releases][releases] |
 | Main repository | [FluorineOS/fluorine][main] |
-| Image name | `FluorineOS-0.1.0-amd64.iso` |
-| Checksum | `FluorineOS-0.1.0-amd64.iso.sha256` |
-| Image size | `1390505984` bytes (1.30 GiB) |
-| SHA-256 | `96e9114ed09c6e82629725d2fc092205fcb22e6d10979b05e28e9101e788672f` |
+| Image name | `FluorineOS-0.2.0-amd64.iso` |
+| Checksum | `FluorineOS-0.2.0-amd64.iso.sha256` |
+| Image size | `1390624768` bytes (1.30 GiB) |
+| SHA-256 | `9b8c045e0a5d27cfd7d148a5ca720d7e59533c6eaa9d0b51f93ae3abd7fed780` |
 
 Download the image and its checksum, then verify before writing it to removable media:
 
 ```sh
-sha256sum -c FluorineOS-0.1.0-amd64.iso.sha256
+sha256sum -c FluorineOS-0.2.0-amd64.iso.sha256
 ```
 
 ## Repositories
